@@ -1,0 +1,12 @@
+.vs/
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.tlog/
+*.user
+*.suo
+practica15-datos.txt
